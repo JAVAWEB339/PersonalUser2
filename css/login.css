@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    display: flex;
+    height: 624px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../image/loginback.jpg);
+}
